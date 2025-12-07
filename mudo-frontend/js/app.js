@@ -1,5 +1,5 @@
 // Configuration
-const BACKEND_URL = "http://localhost:5000";
+const BACKEND_URL = "https://mudo-ai-persona-be.onrender.com";
 
 // UI Text Definitions
 const UI_TEXT = {
