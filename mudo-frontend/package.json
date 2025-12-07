@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "description": "Frontend for MuDo AI Persona Chat",
   "scripts": {
-    "start": "serve . -p 3000"
+    "start": "serve . -p 3000",
+    "build": "echo 'No build step required'"
   },
   "dependencies": {
     "serve": "^14.2.0"
   }
 }
+
 
