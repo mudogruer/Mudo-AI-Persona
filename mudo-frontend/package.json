@@ -4,11 +4,12 @@
   "description": "Frontend for MuDo AI Persona Chat",
   "scripts": {
     "start": "serve . -p 3000",
-    "build": "echo 'No build step required'"
+    "build": "mkdir -p build && cp index.html face_points.json build/ && cp -r assets js build/"
   },
   "dependencies": {
     "serve": "^14.2.0"
   }
 }
+
 
 
