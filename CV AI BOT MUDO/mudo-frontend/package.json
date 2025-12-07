@@ -1,0 +1,12 @@
+{
+  "name": "mudo-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for MuDo AI Persona Chat",
+  "scripts": {
+    "start": "serve . -p 3000"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
+
